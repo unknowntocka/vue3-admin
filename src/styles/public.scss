@@ -1,0 +1,13 @@
+:root {
+  --border-color: #e3e3e3;
+  --border-color-light: #f3f3f3;
+  --icon-gray: #9b9b9b;
+  --main-text-color: #1a1a1a;
+  --secondary-text-color: #686868;
+}
+
+.elip {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
